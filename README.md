@@ -1,6 +1,6 @@
 # Hi there, I'm Pradumna Patki 👋
 
-Analytics professional blending Data Science, Business Analytics, and AI — skilled in building predictive models, automating processes, and delivering insights that shape business strategy and performance.
+Analytics professional blending Data Science, Business Analytics, and AI. Skilled in building predictive models, automating processes, and delivering insights that shape business strategy and performance.
 
 ---
 
@@ -22,8 +22,8 @@ Analytics professional blending Data Science, Business Analytics, and AI — ski
 
 | Company | Role & Work |
 |--------|-------------|
-| <img src="unnamed.png" width="60"> | **Senior Data Analyst (Marketing Science) – HealthifyMe**<br>Automated KPI Reporting, Built ML Models, Optimized Marketing Mix Models, Enhanced Retention, Optimized Budget strategies |
-| <img src="images.png" width="60"> | **Data Analyst (Business) – Gameskraft**<br>Built Dashboards, User Segmentation, A/B Testing, Predictive Models, Business Operations |
+| <img src="images_v.png" width="60"> | **Senior Data Analyst (Process Mining) – Vodafone Intelligent Solutions**<br>Migrated Finance Analytics to Celonis EMS, Delivered AI/ML Solutions in Supply Chain & Finance, Price Optimization on GCP (Python ML Pipelines), Built 50+ Dashboards (SAP HANA, BigQuery, Celonis PQL), Standardized KPI Frameworks, Cross-Functional Liaison (Product, Compliance, Engineering) |
+| <img src="images_q.png" width="60"> | **Data Analyst (Process Mining) – Quess Corp**<br>Built Python/Pycelonis ETL Pipelines, Automated Reporting & Improved Accuracy, Delivered Stakeholder Demos Driving Adoption, Analyzed 500+ Feedback Responses for ERP Insights, Partnered with Ops & Engineering to Refine Workflows & Reduce Data Errors |
 
 ---
 
@@ -67,12 +67,9 @@ Analytics professional blending Data Science, Business Analytics, and AI — ski
 ---
 
 ## Projects 💡
-- SmartATS Reviewer: LLM-powered Resume Analyzer using Google Gemini & Streamlit
-- Churn Predictor: An ANN-Based Customer Retention Model with 86% accuracy
-- Reservation Radar: Hotel Booking Cancellation Prediction with 89% accuracy
-- The Guac Shop - An end-to-end ETL pipeline project using Apache hop and Oracle cloud
-- US Housing Analytics: SQL + Tableau insights on rental trends & pricing
-- CRM Segmentation Automation: ML-driven customer clustering for targeted marketing
+- Movie Recommender: Personalized movie recommendation system using collaborative filtering and content-based methods in Python
+- E-commerce Analytics: Customer behavior and revenue optimization with KPI tracking, cohort analysis, and RFM segmentation
+- Avocado-Market-Analytics: EDA, forecasting (ARIMA, SARIMA, LSTM, GRU), and ML-driven customer segmentation (RFM, K-Means, GMM) for market insights
 
 ---
 
