@@ -14,7 +14,7 @@ Analytics professional blending Data Science, Business Analytics, and AI. Skille
 
 ## Education 🎓
 - MS in Management Information Systems @ University at Buffalo 
-- BE in Mechanical Engineering @ PES College of Engineering 
+- BE in Mechanical Engineering @ MES Pillai College of Engineering 
 
 ---
 
