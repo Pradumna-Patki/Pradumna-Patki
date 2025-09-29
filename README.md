@@ -22,8 +22,7 @@ Analytics professional blending Data Science, Business Analytics, and AI. Skille
 
 | Company | Role & Work |
 |--------|-------------|
-| <img src="images_v.png" width="60"> | **Senior Data Analyst (Process Mining) – Vodafone Intelligent Solutions**<br>Migrated Finance Analytics to Celonis EMS, Delivered AI/ML Solutions in Supply Chain & Finance, Price Optimization on GCP (Python ML Pipelines), Built 50+ Dashboards (SAP HANA, BigQuery, Celonis PQL), Standardized KPI Frameworks, Cross-Functional Liaison (Product, Compliance, Engineering) |
-| <img src="images_q.png" width="60"> | **Data Analyst (Process Mining) – Quess Corp**<br>Built Python/Pycelonis ETL Pipelines, Automated Reporting & Improved Accuracy, Delivered Stakeholder Demos Driving Adoption, Analyzed 500+ Feedback Responses for ERP Insights, Partnered with Ops & Engineering to Refine Workflows & Reduce Data Errors |
+| <img src="images_v.png" width="60"> | **Senior Consultant (Business Intelligence , Sales Operations, GTM) – Vodafone Intelligent Solutions**<br>Turned data into strategy by building scalable BI solutions and automated reporting frameworks with SQL, Tableau, and Snowflake. I've helped drive digital transformation by boosting efficiency by over 85%, standardizing KPIs, and delivering key analyses to shape GTM strategy for executive leadership. |
 
 ---
 
